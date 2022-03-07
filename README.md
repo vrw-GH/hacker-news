@@ -1,7 +1,5 @@
 # My Hacker News
 
-GitHub Repo: https://github.com/vrw-GH/hacker-news
-<br/>
 <br/>
 Continuous Deployment on Netlify https://vrwgh-myhackernews.netlify.app/
 <br/>
